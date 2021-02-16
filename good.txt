@@ -1,3 +1,4 @@
+echo "one more"
 #!/bin/bash
 echo "sshkey"
 echo "test"
