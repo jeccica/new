@@ -1,3 +1,4 @@
 #!/bin/bash
+echo "sshkey"
 echo "test"
 echo "helloaaaaaaaaa";
