@@ -2,4 +2,5 @@ echo "one more"
 #!/bin/bash
 echo "sshkey"
 echo "test"
+echo "ssh new key"
 echo "helloaaaaaaaaa";
